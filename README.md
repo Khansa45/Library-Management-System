@@ -42,7 +42,6 @@ python main.py
 * Constructors
 * Functions
 * Lists
-* Dictionaries
 * Conditional Statements
 * Loops
 
